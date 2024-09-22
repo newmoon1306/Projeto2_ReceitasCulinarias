@@ -1,5 +1,19 @@
 # ReceitasApp
 
+Simulador de um Livro de Receitas
+Descrição: Uma aplicação simples que lista receitas culinárias. O usuário pode ver o passo a passo, os ingredientes e também registrar uma receita específica.
+Funcionalidades:
+Exibir uma lista de receitas.
+Ao clicar em uma receita, mostrar os detalhes (ingredientes e modo de preparo).
+Formulário para registro de novas receitas.
+Melhorias: 
+Melhorar o estilo do layout,
+colocar imagens para as receitas listadas e para os ingredientes.
+
+Tecnologias:
+Angular Material para usar cards e botões.
+json-server para armazenar os dados das receitas.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
 
 ## Development server
