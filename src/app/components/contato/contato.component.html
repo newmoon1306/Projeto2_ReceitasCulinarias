@@ -1,0 +1,36 @@
+<form (ngSubmit)="onSubmit(form)" #form="ngForm">
+    <mat-card>
+      <mat-card-title>Enviar Receita</mat-card-title>
+  
+      <!-- Campo para o Nome da Receita -->
+      <mat-form-field>
+        <mat-label>Nome da Receita</mat-label>
+        <input matInput name="nome" ngModel required>
+      </mat-form-field>
+  
+      <!-- Campo para os Ingredientes -->
+      <mat-form-field>
+        <mat-label>Ingredientes</mat-label>
+        <textarea matInput name="ingredientes" ngModel required></textarea>
+      </mat-form-field>
+  
+      <!-- Campo para o Modo de Preparo -->
+      <mat-form-field>
+        <mat-label>Modo de Preparo</mat-label>
+        <textarea matInput name="modoPreparo" ngModel required></textarea>
+      </mat-form-field>
+  
+      <!-- Botão para Enviar -->
+      <button mat-raised-button color="primary" type="submit">Enviar</button>
+  
+      <!-- Mensagem de Sucesso -->
+      <div *ngIf="successMessage" style="color: green; margin-top: 10px;">
+        {{ successMessage }}
+      </div>
+  
+      <!-- Mensagem de Erro -->
+      <div *ngIf="errorMessage" style="color: red; margin-top: 10px;">
+        {{ errorMessage }}
+      </div>
+    </mat-card>
+</form>

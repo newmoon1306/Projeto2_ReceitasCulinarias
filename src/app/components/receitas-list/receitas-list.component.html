@@ -1,0 +1,8 @@
+<div class="receitas-container">
+  <mat-card *ngFor="let receita of receitas" class="receita-card" (click)="verDetalhes(receita.id)">
+    <mat-card-title>{{ receita.nome }}</mat-card-title>
+    <mat-card-content>
+      <p><strong>Ingredientes:</strong> {{ receita.ingredientes }}</p>
+    </mat-card-content>
+  </mat-card>
+</div>

@@ -1,0 +1,65 @@
+{
+  "receitas": [
+    {
+      "id": "1",
+      "nome": "Bolo de Cenoura",
+      "ingredientes": "Cenoura, farinha, ovos, açúcar",
+      "modoPreparo": "Misturar os ingredientes e assar por 40 minutos."
+    },
+    {
+      "id": "2",
+      "nome": "Sopa de Legumes",
+      "ingredientes": "Cenoura, batata, chuchu, temperos",
+      "modoPreparo": "Cozinhar tudo por 30 minutos."
+    },
+    {
+      "id": "46c9",
+      "nome": "bolo de aipim",
+      "ingredientes": "1,5 kg de aipim (ou mandioca) ralado\novo\n3 ovos inteiros\nleite\n3 xícaras de leite\naçúcar\n3 xícaras de açúcar\nmargarina\n2 colheres (sopa) de margarina ou manteiga\nsal\n1 pitada de sal\ncoco\n1 coco pequeno ralado (ou 100 g de coco ralado industrializado)\nbaunilha\n6 gotas de baunilha (opcional)",
+      "modoPreparo": "1 Misture todos os ingredientes em uma bacia grande com a ajuda de um fouet ou uma colher de pau.\n\n2\nPreaqueça o forno a 180º C.\n\n3\nUnte a forma retangular com manteiga e enfarinhe antes de colocar a massa. \n\n4\nColoque a massa na forma retangular untada e leve para assar por, aproximadamente, 45 minutos.\n\n5\nA textura do bolo deve ficar cremosa por dentro e com a casquinha crocante."
+    },
+    {
+      "id": "87a0",
+      "nome": "Pizza",
+      "ingredientes": "1 kg de farinha de trigo\nfermento biológico\n30 g de fermento biológico\nágua\n3 xícaras de água morna\nóleo\n3/4 xícaras de óleo\nsal\n1 colher (chá) de sal\naçúcar\n1 colher (chá) de açúcar\ncachaça\n1 colher (sopa) de pinga",
+      "modoPreparo": "Misture o fermento, o sal e o açúcar em um pouco de água morna, até que o fermento esteja completamente dissolvido.\n\n2\nEm seguida, adicione metade da medida de farinha de trigo, o óleo e mexa até criar uma consistência pastosa.\n\n3\nAcrescente o restante da farinha de trigo, a pinga, a água morna e misture bem.\n\n4\nAssim que a massa desgrudar das mãos, deixe crescer por 30 minutos."
+    },
+    {
+      "id": "a2c7",
+      "nome": "cachorro quente",
+      "ingredientes": "300 g de salsicha\ncebola\n1 cebola\ntomate\n1 tomate\nmanteiga\n1 colher de manteiga\nextrato de tomate\n1 copo de extrato de tomate\ncreme de leite\n1 caixa de creme de leite\nágua\n1/2 medida do copo de extrato de tomate de água\n",
+      "modoPreparo": "Pique a cebola e o tomate, refogue bem na manteiga.\n\n2\nAcrescente o extrato de tomate, corte a salsicha em rodelas e deixe cozinhar a gosto, se presiso acrescente a medida de água.\n\n3\nDepois de cozinhar bem, acrescente o creme de leite e é so servir.\n\n4\nAcrescente batata palha, milho verde, catchup e maionese. Fica espetacular!"
+    },
+    {
+      "id": "378b",
+      "nome": "Sorvete ",
+      "ingredientes": "500 ml de leite integral (leite de vaca)\ncreme de leite\n1 caixa de creme de leite\nleite condensado\n1/2 lata de leite condensado\naçúcar\n10 colheres de sopa de açúcar\n1 e 1/2 colher de sopa de pó para sorvete com sabor de sua preferência\nliga neutra\n1 colher de sopa bem cheia de liga neutra\nemulsificante\n1 colher de chá de emulsificante",
+      "modoPreparo": "Bata no liquidificador o leite, creme de leite, leite condensado, açúcar, pó para sorvete, e a liga neutra, por 5 minutos em alta rotação, essa mistura chamaremos de base.\n\n2\nColoque a base para congelar.\n\n3\nApós congelada a base, com o auxílio de uma tabua e uma faca grande, corte tudo em cubinhos pequenos.\n\n4\nColoque a base já toda em cortada em cubos, na batedeira e adicione o emulsificante.\n\n"
+    },
+    {
+      "id": "7b8c",
+      "nome": "Geladinho de frutas",
+      "ingredientes": "500 g de frutas a seu gosto\nleite\n500 ml de leite de vaca\nágua\n250 ml de água filtrada\nleite condensado\n1 lata ou caixa de leite condensado\nSaquinhos de plástico",
+      "modoPreparo": "Misture as frutas com a água e o leite em um liquidificador, bata bem.\n\n2\nEm seguida coloque o leite condensado.\n\n3\nSe as frutas escolhidas for com maior índice de água como melão, melancia, não coloque a água filtrada.\n\n4\nColoque nos saquinhos e congele."
+    },
+    {
+      "id": "adff",
+      "nome": "Feijão",
+      "ingredientes": "1 xícara (chá) de feijão-carioquinha cru (170 g)\nágua\n4 xícaras (chá) de água (800 ml)\ntempero\n1 sachê de tempero pronto\nsal\n1 colher (chá) de sal\nfolha de louro\n1 folha de louro\nóleo\n1 colher (sopa) de óleo\nalho\n2 dentes de alho amassados",
+      "modoPreparo": "Deixe o feijão de molho por 2 horas.\n\n2\nEscorra e transfira para uma panela de pressão.\n\n3\nJunte a água, o tempero pronto, o sal e o louro.\n\n4\nDeixe cozinhar, em fogo baixo, por 20 minutos após o início da fervura.\n\n5\nEm uma frigideira média, coloque o óleo e leve ao fogo alto para aquecer. Junte o alho e refogue rapidamente até dourar.\n\n6\nAdicione uma concha dos grãos do feijão cozido e amasse-os com uma colher.\n\n"
+    },
+    {
+      "id": "f39d",
+      "nome": "Hambúrguer caseiro",
+      "ingredientes": "1 kg de carne moída (de preferência patinho)\ncreme de cebola\n1 sachê de creme de cebola\ncebola\n1 cebola media picada\nalho\n4 dentes de alho picado\ncebolinha\ncebolinha a gosto\nsal\nsal a gosto\norégano seco\norégano a gosto\npimenta-do-reino\npimenta a gosto",
+      "modoPreparo": "Misture todos os ingredientes, amasse bem e forme bolinhas, depois achate para ter a forma de hambúrguer.\n\n2\nFrite numa frigideira antiaderente, coloque uma colher de óleo pois a carne não tem gordura."
+    },
+    {
+      "id": "1a85",
+      "nome": "Espetinho Misto",
+      "ingredientes": "½ kg alcatra\nlombo de porco\n½ kg de lombo suíno\ncoração de galinha\n1 kg de coração de frango\nfrango\n1 kg de filé frango\nlinguiça calabresa\n1 pacote de calabresa fininha\nbacon\n1 pacote de bacon em fatias\ncebola\n1 cebola\npimentão amarelo\n1 pimentão amarelo",
+      "modoPreparo": "Corte as carnes, frango e calabresa em cubos e tempere a seu gosto, deixe curtir bem o tempero, antes de espetar as carnes envolva a carne suína no bacon para fazer um medalhão e espete.\n\n2\nDepois coloque um pedaço de cada tipo para fazer seu espetinho misto, sempre intercalando com um pedaço de cebola e pimentão para dar aquele toque especial que fica uma delícia.\n\n3\nDepois e só assar na brasa ou em uma churrasqueira elétrica tipo a minha que está na foto."
+    }
+   
+  ]
+}

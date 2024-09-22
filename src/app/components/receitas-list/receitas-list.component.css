@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.receitas-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Estilizando os cards */
+.receita-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  width: 100%;
+  max-width: 300px;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.receita-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+mat-card-title {
+  font-size: 1.5rem;
+  color: #007bff;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+mat-card-content {
+  padding: 10px 20px;
+  text-align: left;
+}
+
+mat-card-content p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+strong {
+  color: #343a40;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .receitas-container {
+    margin: 90px;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .receita-card {
+    width: 100%;
+    max-width: 400px;
+    
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .receitas-container {
+    justify-content: space-around;
+  }
+
+  .receita-card {
+    max-width: 350px;
+  }
+}

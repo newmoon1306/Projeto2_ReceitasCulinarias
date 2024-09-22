@@ -1,0 +1,101 @@
+/* Estilos globais */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+h2 {
+  text-align: center;
+  color: #007bff;
+  margin-top: 20px;
+}
+
+mat-card {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+mat-card:hover {
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilizando o cabeçalho do card */
+mat-card-header {
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 15px;
+}
+
+mat-card-title {
+  font-size: 2rem;
+  color: #343a40;
+  text-align: center;
+}
+
+/* Conteúdo do card */
+mat-card-content {
+  padding: 10px 20px;
+  line-height: 1.8;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+mat-card-content p {
+  margin: 10px 0;
+}
+
+strong {
+  color: #007bff;
+}
+
+/* Botão "Voltar" */
+button {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  margin: 20px auto;
+  padding: 10px;
+  font-size: 1.1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  
+  mat-card {
+    padding: 15px;
+    margin: 95px;
+   
+    
+  }
+
+  mat-card-title {
+    font-size: 1.6rem;
+  }
+
+  mat-card-content {
+    font-size: 1rem;
+    
+  }
+
+  button {
+    font-size: 1rem;
+    padding: 8px;
+  }
+}

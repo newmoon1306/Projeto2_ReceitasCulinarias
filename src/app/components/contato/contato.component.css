@@ -1,0 +1,56 @@
+mat-card {
+    max-width: 600px;
+    margin: 20px auto; /* Centraliza o card na página */
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  
+  /* Título do formulário */
+mat-card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+  
+  /* Estilizando os campos do formulário */
+mat-form-field {
+    width: 100%; 
+    margin-bottom: 20px;
+}
+  
+  /* Botão de enviar */
+button[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    background-color: #3f51b5; 
+    color: white;
+}
+  
+  /* Mensagens de sucesso e erro */
+div[style*="color: green"] {
+    text-align: center;
+    font-weight: bold;
+}
+  
+div[style*="color: red"] {
+    text-align: center;
+    font-weight: bold;
+}
+  
+  /* Ajustes de responsividade */
+@media (max-width: 768px) {
+    mat-card {
+      margin: 90px;
+      padding: 15px;
+    }
+  
+    button[type="submit"] {
+      font-size: 14px;
+    }
+  
+    mat-card-title {
+      font-size: 20px;
+    }
+}
